@@ -1,0 +1,12 @@
+[book]
+authors = ["Brandon", "Patrick", "Joe", "Mike", "Corinne", "Matt"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Company Store Wiki"
+
+
+[output.html]
+default-theme = "Rust"
+preferred-light-theme = "Rust"
+preferred-dark-theme = "Ayu"

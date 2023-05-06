@@ -1,0 +1,21 @@
+# Summary
+
+[Introduction](README.md)
+
+- [The Company Store](./the-company-store.md)
+- [The Delta](./the-delta.md)
+	- [Azorious](./the-delta/Azorious.md)
+	- [Boros](./the-delta/Boros.md)
+	- [Dimir](./the-delta/Dimir.md)
+	- [Golgari](./the-delta/Golgari.md)
+	- [Gruul](./the-delta/Gruul.md)
+	- [Orzhov](./the-delta/Orzhov.md)
+	- [Rakdos](./the-delta/Rakdos.md)
+	- [Selesnya](./the-delta/Selesnya.md)
+	- [Simic](./the-delta/Simic.md)
+- [The Astral Sea](./the-astral-sea.md)
+- [The Feywild](./the-fey-wild.md)
+	- [Hunturu](./the-fey-wild/hunturu.md)
+	- [Floria](./the-fey-wild/floria.md)
+	- [Fâl](./the-fey-wild/fal.md)
+	- [Heliator](./the-fey-wild/heliator.md)
