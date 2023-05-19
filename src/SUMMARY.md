@@ -9,6 +9,7 @@
 	- [Dimir](./the-delta/Dimir.md)
 	- [Golgari](./the-delta/Golgari.md)
 	- [Gruul](./the-delta/Gruul.md)
+	- [Izzet](./the-delta/Izzet.md)
 	- [Orzhov](./the-delta/Orzhov.md)
 	- [Rakdos](./the-delta/Rakdos.md)
 	- [Selesnya](./the-delta/Selesnya.md)
