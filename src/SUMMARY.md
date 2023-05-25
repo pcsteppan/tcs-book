@@ -20,3 +20,5 @@
 	- [Floria](./the-fey-wild/floria.md)
 	- [Fâl](./the-fey-wild/fal.md)
 	- [Heliator](./the-fey-wild/heliator.md)
+- [Tables](./tables.md)
+    - [Pileus Mishap Table](./tables/pileus-mishap-table.md) 
